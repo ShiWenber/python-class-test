@@ -47,3 +47,7 @@ fig = d2l.plt.imshow(img)
 fig.axes.add_patch(bbox_to_rect(dog_bbox, 'red'))
 fig.axes.add_patch(bbox_to_rect(cat_bbox, 'blue'))
 plt.show()
+
+
+
+# 为了跑该功能使用了
